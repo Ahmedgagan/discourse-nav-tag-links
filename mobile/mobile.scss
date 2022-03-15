@@ -1,0 +1,8 @@
+.discourse-nav-tag-links {
+  div:not(:first-child) a {
+    list-style-type: none;
+    margin-left: 0;
+    margin-top: 5px;
+    padding-top: 10px;
+  }
+}

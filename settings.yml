@@ -1,0 +1,5 @@
+Nav_links:
+  type: list
+  default: "Featured;featured tag;featured"
+  description:
+    en: "Semicolon delimited in this order: display name;description;tag. Display name is the text that shows on the menu. Description is the help text that shows on hover. Tag is the path for the link."
